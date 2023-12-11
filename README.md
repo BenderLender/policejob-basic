@@ -5,12 +5,9 @@ this script is a heavily modified version of this creator: https://github.com/Fi
 # Features
 - Made to work without ESX or any database server.
 - Ace Permission to clockin ("clockin").
-- Baitcarpro built in (only when clocked in).
-- Speedzone (includes a speed zone that limits players speed to 20MPH.
-- Gas mask (when clocked in allows to use /gasmask) actual gas mask applies to MP peds.
 
 # Modified
-- removed the ped select (can only clock in and out from marker)
+- made into ace permission
 - removed esx portion.
 
 # Requirements
